@@ -1,0 +1,15 @@
+/Users/cihancalli/Desktop/yazilim-egitimi/coderbyte/FirstReverse/bin/Debug/net5.0/FirstReverse.deps.json
+/Users/cihancalli/Desktop/yazilim-egitimi/coderbyte/FirstReverse/bin/Debug/net5.0/FirstReverse.runtimeconfig.json
+/Users/cihancalli/Desktop/yazilim-egitimi/coderbyte/FirstReverse/bin/Debug/net5.0/FirstReverse.runtimeconfig.dev.json
+/Users/cihancalli/Desktop/yazilim-egitimi/coderbyte/FirstReverse/bin/Debug/net5.0/FirstReverse.dll
+/Users/cihancalli/Desktop/yazilim-egitimi/coderbyte/FirstReverse/bin/Debug/net5.0/ref/FirstReverse.dll
+/Users/cihancalli/Desktop/yazilim-egitimi/coderbyte/FirstReverse/bin/Debug/net5.0/FirstReverse.pdb
+/Users/cihancalli/Desktop/yazilim-egitimi/coderbyte/FirstReverse/obj/Debug/net5.0/FirstReverse.csproj.AssemblyReference.cache
+/Users/cihancalli/Desktop/yazilim-egitimi/coderbyte/FirstReverse/obj/Debug/net5.0/FirstReverse.GeneratedMSBuildEditorConfig.editorconfig
+/Users/cihancalli/Desktop/yazilim-egitimi/coderbyte/FirstReverse/obj/Debug/net5.0/FirstReverse.AssemblyInfoInputs.cache
+/Users/cihancalli/Desktop/yazilim-egitimi/coderbyte/FirstReverse/obj/Debug/net5.0/FirstReverse.AssemblyInfo.cs
+/Users/cihancalli/Desktop/yazilim-egitimi/coderbyte/FirstReverse/obj/Debug/net5.0/FirstReverse.csproj.CoreCompileInputs.cache
+/Users/cihancalli/Desktop/yazilim-egitimi/coderbyte/FirstReverse/obj/Debug/net5.0/FirstReverse.dll
+/Users/cihancalli/Desktop/yazilim-egitimi/coderbyte/FirstReverse/obj/Debug/net5.0/ref/FirstReverse.dll
+/Users/cihancalli/Desktop/yazilim-egitimi/coderbyte/FirstReverse/obj/Debug/net5.0/FirstReverse.pdb
+/Users/cihancalli/Desktop/yazilim-egitimi/coderbyte/FirstReverse/obj/Debug/net5.0/FirstReverse.genruntimeconfig.cache
